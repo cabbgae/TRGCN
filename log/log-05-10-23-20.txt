@@ -1,0 +1,1 @@
+2024-05-10 23-20-32: batch_size: 2048 device: cpu embedSize: 64 gcn_layers: 2 lr: 0.001 n_epochs: 50 ratio: 0.8

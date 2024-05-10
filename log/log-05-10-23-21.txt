@@ -1,0 +1,54 @@
+2024-05-10 23-21-11: batch_size: 2048 device: cpu embedSize: 64 gcn_layers: 2 lr: 0.001 n_epochs: 50 ratio: 0.8
+2024-05-10 23-21-54: batch_size: 1024 device: cpu embedSize: 64 gcn_layers: 2 lr: 0.001 n_epochs: 50 ratio: 0.8
+2024-05-10 23-22-25: Epoch0:trainLoss1.0771,testLoss1.0993
+2024-05-10 23-22-56: Epoch1:trainLoss1.0339,testLoss1.0277
+2024-05-10 23-23-25: Epoch2:trainLoss1.0029,testLoss0.9976
+2024-05-10 23-23-55: Epoch3:trainLoss0.9820,testLoss0.9888
+2024-05-10 23-24-24: Epoch4:trainLoss0.9801,testLoss0.9942
+2024-05-10 23-24-52: Epoch5:trainLoss0.9090,testLoss0.9970
+2024-05-10 23-25-20: Epoch6:trainLoss0.9415,testLoss0.9646
+2024-05-10 23-25-48: Epoch7:trainLoss0.9563,testLoss0.9655
+2024-05-10 23-26-17: Epoch8:trainLoss0.9544,testLoss0.9605
+2024-05-10 23-26-46: Epoch9:trainLoss0.9738,testLoss0.9623
+2024-05-10 23-27-14: Epoch10:trainLoss0.9486,testLoss0.9588
+2024-05-10 23-27-42: Epoch11:trainLoss0.9463,testLoss0.9567
+2024-05-10 23-28-10: Epoch12:trainLoss0.9478,testLoss0.9572
+2024-05-10 23-28-39: Epoch13:trainLoss0.9308,testLoss0.9499
+2024-05-10 23-29-07: Epoch14:trainLoss0.9533,testLoss0.9515
+2024-05-10 23-29-35: Epoch15:trainLoss0.9409,testLoss0.9522
+2024-05-10 23-30-03: Epoch16:trainLoss0.9134,testLoss0.9457
+2024-05-10 23-30-32: Epoch17:trainLoss0.8734,testLoss0.9454
+2024-05-10 23-31-00: Epoch18:trainLoss0.9416,testLoss0.9438
+2024-05-10 23-31-29: Epoch19:trainLoss0.9358,testLoss0.9440
+2024-05-10 23-31-57: Epoch20:trainLoss0.9295,testLoss0.9416
+2024-05-10 23-32-26: Epoch21:trainLoss0.9109,testLoss0.9449
+2024-05-10 23-32-54: Epoch22:trainLoss0.9068,testLoss0.9415
+2024-05-10 23-33-23: Epoch23:trainLoss0.9397,testLoss0.9550
+2024-05-10 23-33-51: Epoch24:trainLoss0.9070,testLoss0.9365
+2024-05-10 23-34-20: Epoch25:trainLoss0.9252,testLoss0.9363
+2024-05-10 23-34-48: Epoch26:trainLoss0.9167,testLoss0.9360
+2024-05-10 23-35-17: Epoch27:trainLoss0.9339,testLoss0.9303
+2024-05-10 23-35-44: Epoch28:trainLoss0.8646,testLoss0.9375
+2024-05-10 23-36-12: Epoch29:trainLoss0.9200,testLoss0.9270
+2024-05-10 23-36-40: Epoch30:trainLoss0.9231,testLoss0.9280
+2024-05-10 23-37-07: Epoch31:trainLoss0.8957,testLoss0.9300
+2024-05-10 23-37-35: Epoch32:trainLoss0.9072,testLoss0.9218
+2024-05-10 23-38-04: Epoch33:trainLoss0.8915,testLoss0.9261
+2024-05-10 23-38-32: Epoch34:trainLoss0.8956,testLoss0.9193
+2024-05-10 23-38-59: Epoch35:trainLoss0.9088,testLoss0.9140
+2024-05-10 23-39-28: Epoch36:trainLoss0.8963,testLoss0.9170
+2024-05-10 23-39-56: Epoch37:trainLoss0.8991,testLoss0.9163
+2024-05-10 23-40-24: Epoch38:trainLoss0.9035,testLoss0.9166
+2024-05-10 23-40-52: Epoch39:trainLoss0.8556,testLoss0.9215
+2024-05-10 23-41-20: Epoch40:trainLoss0.8956,testLoss0.9143
+2024-05-10 23-41-48: Epoch41:trainLoss0.9150,testLoss0.9104
+2024-05-10 23-42-16: Epoch42:trainLoss0.8806,testLoss0.9102
+2024-05-10 23-42-44: Epoch43:trainLoss0.8727,testLoss0.9149
+2024-05-10 23-43-12: Epoch44:trainLoss0.8890,testLoss0.9101
+2024-05-10 23-43-40: Epoch45:trainLoss0.8730,testLoss0.9091
+2024-05-10 23-44-08: Epoch46:trainLoss0.8906,testLoss0.9134
+2024-05-10 23-44-36: Epoch47:trainLoss0.8782,testLoss0.9177
+2024-05-10 23-45-03: Epoch48:trainLoss0.8908,testLoss0.9060
+2024-05-10 23-45-33: Epoch49:trainLoss0.8598,testLoss0.9042
+2024-05-10 23-45-33: Epoch 39: bestTrainLoss 0.8556
+2024-05-10 23-45-33: Epoch 49: bestTestLoss 0.9042
